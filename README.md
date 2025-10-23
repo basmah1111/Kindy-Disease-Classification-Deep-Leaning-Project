@@ -1,1 +1,1 @@
-# Kindy-Disease-Classification-Deep-Leaning-Project
+# Kindy-Disease-Classification-Deep-Learning-Project
